@@ -109,16 +109,15 @@ src
 ## 👩‍💼 Desenvolvedora
 
 - **Karina Ivanova Varlamova**
-- [LinkedIn](https://www.linkedin.com/in/karina-iv-69b26b312/)
 
 ---
 
 ## ⭐ Agradecimentos
 
-Alura and Oracle
+Alura & Oracle
 
 ---
 
 ## 📄 Licença
 
-Este projeto é open-source e está sob a licença MIT.
+Este projeto é livre para uso educacional.
